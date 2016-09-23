@@ -1,1 +1,1 @@
-this is the read me for my fork of Carlos' repl_game SUPER PEG WORLD
+# REPL game based on the popular peg games at restaurants. It was designed as a practice in loops and conditional statements.
